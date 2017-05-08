@@ -2,6 +2,9 @@
 
 A simple proof-of-concept for user input validation in meson.
 
+In that context, user input is limited to the Domain Specific Language
+exposed by meson, and parsed from `meson.build` and `meson_options.txt` files.
+
 ## Proposed approach
 
 The proposed approach is [ad hoc polymorphism]: where meson currently maps
