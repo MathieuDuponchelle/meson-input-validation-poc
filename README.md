@@ -59,7 +59,7 @@ user input with the reported error, in order to provide the user with
 compiler-grade error reporting (showing the exact line and column where the
 error occured, along with a helpful message).
 
-Regarding documentation, I've already started playing around a bit in error
+Regarding documentation, I've already started playing around a bit in order
 to generate user-readable prototypes, I'm not yet entirely sure about the
 formatting (I did see the proposal on the playground page). You can
 look at the formatted versions of the currently tested prototypes by running
